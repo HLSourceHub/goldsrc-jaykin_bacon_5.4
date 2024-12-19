@@ -1,0 +1,7 @@
+6
+weapon			320 w_flashbang	0	0	170	45
+weapon_s		320 w_flashbang	0	0	170	45
+ammo			320 320hud2	36	34	18	18
+weapon			640 w_flashbang	0	0	170	45
+weapon_s		640 w_flashbang	0	0	170	45
+ammo			640 640hud7	48	96	24	24

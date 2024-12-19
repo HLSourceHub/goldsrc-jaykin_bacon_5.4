@@ -1,0 +1,1 @@
+hl.exe -game HL2JKS -num_edicts 2048 -console

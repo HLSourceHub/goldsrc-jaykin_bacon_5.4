@@ -1,0 +1,81 @@
+WEAPON MODELS:
+
+Various weapon models were used with permission from the TS team.
+
+Chainsaw: 
+	Be fucked if I know.
+
+Garand, Kar 98k:
+	Everything:		Day Of Defeat Team
+
+Gold Colts:
+	Everything:		The Specialists Team
+
+Glock 18, Spas 12:
+	Hand Skin:		The Podunkian
+	Everything Else:	The Specialists Team
+
+Anaconda:
+	Model:	 		Duffman
+	Animation:		The Podunkian
+	
+Scout:
+	Everything:		Counterstrike Team
+
+P90:
+	Everything:		Counterstrike: CZ Team
+
+Box:
+	Everything:		The Podunkian
+
+USP, G-Man, Crossbow:
+	Everything:
+				Valve
+
+PLAYER MODLES:
+
+Battle Royale:
+	Model:			Counterstrike: CZ Team
+				The Podunkian
+	Skin:			The Podunkian
+
+John:
+	Everything:		The Ship Team
+
+Gordon, Zombie:
+	Everything:		Valve
+
+Big Boss:
+	Body Model:		Day of Defeat Team
+	Head Model:		graves (eblis59@juno.com)
+	Model & Skin edits:	The Podunkian
+	Additional modelling:	The Podunkian
+
+Additional Animations by The Podunkian
+
+
+SOUNDS TAKEN FROM VARIOUS MODS/GAMES/ETC./LOL
+MIXED BY THE PODUNKIAN
+
+
+MAPS:
+
+Beach 3:		Who knows?
+
+HL2JKS_Forest:		Day of Defeat Team
+
+Showdown:		Keyser
+
+PerfectDark:		The Podunkian
+
+KillBox:		Some nub, probably.
+
+OneSlip:		Unknown
+
+
+VOICE ACTING DONE BY THE PODUNKIAN
+
+SPECIAL THANKS TO THE BLACKSHEEP CLAN FOR MANY MOONS OF ROFFLES AND SHIT.
+
+If your work is in this mod and you don't want it to be, email me at podunkian[AT]suteki.nu
+and I'll get it the fuck out of there.

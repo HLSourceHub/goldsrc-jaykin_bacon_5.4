@@ -1,0 +1,6 @@
+6
+weapon			320 w_box	0	0	170	45
+weapon_s		320 w_box	0	0	170	45
+
+weapon			640 w_box	0	0	170	45
+weapon_s		640 w_box	0	0	170	45

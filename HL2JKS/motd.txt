@@ -1,0 +1,29 @@
+Half-Life 2: Jaykin' Bacon: SOURCE EDITION :^O
+
+A Shit Tastic Mod by The Podunkian (Podunkian[AT]suteki.nu)
+
+SOME STUFF:
+
+Taunt your opponents after killing them by pressing the TAUNT
+button (Default Z)
+
+SNAKE VERSUS MONKEY INFORMATION:
+
+If the gameplay mode is Snake Versus Monkey, be sure you have
+the following commands bound:
+
+"radio"
+"+peek"
+
+SNAKE:
+Objective: Capture Kerotan.
+
+Different camo works better in different situations.
+
+The camo you should use is determined either by the ground you're
+on or the light level (If you're using the BLACK camo)
+
+You must crouch or go prone for the camo to be effective.
+
+MONKEY:
+Objective: Prevent Snake from capturing Kerotan.

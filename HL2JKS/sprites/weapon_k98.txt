@@ -1,0 +1,16 @@
+14	// number of sprites
+
+weapon			320 w_k98	0	0	170	45
+weapon_s		320 w_k98	0	0	170	45
+ammo			320 otherammo	64	0	32	32
+crosshair		320 crosshairs	72	0	24	24
+autoaim			320 crosshairs	72	0	24	24
+zoom			320 ch_sniper	0	0	256	256
+zoom_autoaim		320 ch_sniper	0	0	256	256
+weapon			640 w_k98	0	0	170	45
+weapon_s		640 w_k98	0	0	170	45
+ammo			640 otherammo	64	0	32	32
+crosshair		640 crosshairs	72	0	24	24
+autoaim			640 crosshairs	72	0	24	24
+zoom			640 sniper_scope	0	0	256	256
+zoom_autoaim		640 sniper_scope	0	0	256	256

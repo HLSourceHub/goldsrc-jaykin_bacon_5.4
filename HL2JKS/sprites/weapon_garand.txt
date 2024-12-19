@@ -1,0 +1,14 @@
+// mp5
+
+10	// number of sprites
+weapon			640 w_garand	0	0	170	45
+weapon_s		640 w_garand	0	0	170	45
+ammo			640 otherammo	32	0	32	32
+crosshair		320 crosshairs	72	0	24	24
+autoaim			320 crosshairs	72	0	24	24
+
+weapon			320 w_garand	0	0	170	45
+weapon_s		320 w_garand	0	0	170	45
+ammo			320 otherammo	32	0	32	32
+crosshair		640 crosshairs	72	0	24	24
+autoaim			640 crosshairs	72	0	24	24
